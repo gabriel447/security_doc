@@ -1,7 +1,9 @@
 # RELATÓRIO DE IMPLEMENTAÇÃO DE MEDIDAS DE SEGURANÇA
 
 Data: 23/05/2023
+
 Empresa: Abstergo Industries 
+
 Responsável: Gabriel dos Anjos Senra
 
 ## Introdução
